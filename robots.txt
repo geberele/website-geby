@@ -1,0 +1,11 @@
+User-Agent: *
+
+Disallow: /php/
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /vendor/
+Disallow: /rs-plugin/
+Disallow: /src/
+Disallow: /theme/
+
+Sitemap: http://en.geberele.com/sitemap.xml
