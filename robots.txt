@@ -8,4 +8,4 @@ Disallow: /rs-plugin/
 Disallow: /src/
 Disallow: /theme/
 
-Sitemap: http://en.geberele.com/sitemap.xml
+Sitemap: https://www.geberele.com/sitemap.xml
